@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/code/growth_coding/BJ_nowHouse/.idea/BJ_nowHouse.iml" filepath="$USER_HOME$/code/growth_coding/BJ_nowHouse/.idea/BJ_nowHouse.iml" />
+      <module fileurl="file://$USER_HOME$/crawler/.idea/crawler.iml" filepath="$USER_HOME$/crawler/.idea/crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/new_house.iml" filepath="$PROJECT_DIR$/.idea/new_house.iml" />
+    </modules>
+  </component>
+</project>
